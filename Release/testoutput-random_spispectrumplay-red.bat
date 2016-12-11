@@ -1,0 +1,1 @@
+start /b D:\oifii-org\httpdocs\ns-org\nsd\ar\cp\audio_spi\spispectrumplay\Release\spispectrumplay-red.exe testoutput-random.wav 3600.0

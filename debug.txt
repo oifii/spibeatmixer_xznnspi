@@ -1,0 +1,12 @@
+ReadWavFile():
+totalFrames = 85777920
+numChannels = 2
+numSamples = 171555840
+numBytes = 686223360
+Could not allocate load buffer, exiting ...
+ReadWavFile():
+totalFrames = 207323600
+numChannels = 2
+numSamples = 414647200
+numBytes = 1658588800
+Could not allocate load buffer, exiting ...
